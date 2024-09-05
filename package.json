@@ -1,5 +1,5 @@
 {
-  "name": "uuid-generator",
+  "name": "fox-uuid-generator",
   "version": "1.0.0",
   "description": "A Basic uuid generator",
   "type": "module",
