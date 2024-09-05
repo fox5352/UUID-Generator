@@ -1,0 +1,24 @@
+{
+  "name": "uuid-generator",
+  "version": "1.0.0",
+  "description": "A Basic uuid generator",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fox5352/UUID-Generator.git"
+  },
+  "keywords": [
+    "uuid",
+    "generator"
+  ],
+  "author": "Christopher Vos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fox5352/UUID-Generator/issues"
+  },
+  "homepage": "https://github.com/fox5352/UUID-Generator#readme"
+}
