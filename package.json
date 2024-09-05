@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/fox5352/UUID-Generator/issues"
   },
-  "homepage": "https://github.com/fox5352/UUID-Generator#readme"
+  "homepage": "https://github.com/fox5352/UUID-Generator#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
